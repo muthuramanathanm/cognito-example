@@ -8,6 +8,7 @@ Make a POST request to `http://localhost:3000/signup` with the following JSON bo
     "password": "Test@1234"
 }
 
+## Testing Signin:
 Make a POST request to http://localhost:3000/signin with the following JSON body:
 ```json
 {
